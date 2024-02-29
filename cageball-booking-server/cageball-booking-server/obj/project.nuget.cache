@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "DT2Rz0P/6AyF9bk5AEpNyDfxZ5cWU6tk/K/RkHjF5kcCf7xzFW0BH+vHoImDGFTLM6cZLyAbJp1qXknfjsG/hw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\RositaHøybakken\\code\\cageball-booking\\cageball-booking-server\\cageball-booking-server\\cageball-booking-server.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\RositaHøybakken\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\RositaHøybakken\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\RositaHøybakken\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.5\\microsoft.visualstudio.azure.containers.tools.targets.1.19.5.nupkg.sha512",
+    "C:\\Users\\RositaHøybakken\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
